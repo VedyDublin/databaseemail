@@ -1,4 +1,4 @@
-# databaseemail
+# SQL Database email configuration using Code
 
 To get notification or alert from the DB Instance, Database mail is the feature that will help here.  Database mail will send notifications when any alerts occurs or when jobs fails/success depends on configuration. 
 
